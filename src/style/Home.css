@@ -1,0 +1,21 @@
+.hero {
+    background-image: url(../assets/images/02-hero-bg.jpg);
+    background-size: cover !important;
+    background-position: right !important;
+    height: 40vh !important;
+    min-height: 500px !important;
+}
+
+#view-services .btn-primary {
+    background-color: var(--colour3) !important;
+    border: var(--colour3) !important;
+    border-radius: 0 !important;
+    --bs-btn-active-color: var(--colour3) !important;
+    --bs-btn-active-bg: var(--colour2) !important;
+    --bs-btn-active-border-color: var(--colour2) !important;
+}
+
+.allContent {
+    width: 95% !important;
+}
+
